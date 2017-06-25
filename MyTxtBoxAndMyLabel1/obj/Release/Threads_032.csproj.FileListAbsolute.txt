@@ -1,0 +1,71 @@
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\ResolveAssemblyReference.cache
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\MyTxtBoxAndMyLabel1.pdb
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\MyTxtBoxAndMyLabel1.exe
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\MyTxtBoxAndMyLabel1.pdb
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\ResolveAssemblyReference.cache
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csproj.GenerateResource.Cache
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\MyTxtBoxAndMyLabel1.exe
+D:\_EDUCATION_\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\GenerateResource.read.1.tlog
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\GenerateResource.write.1.tlog
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\ResolveAssemblyReference.cache
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\GenerateResource.read.1.tlog
+D:\!!!__EDUCATION__!!!\C#\MyProjects\!!__NOT ACTUAL RIGHT NOW\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\GenerateResource.write.1.tlog
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.pdb
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csproj.GenerateResource.Cache
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.exe
+D:\!!!__EDUCATION__!!!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.pdb
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.exe
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.pdb
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.exe
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.pdb
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+C:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csproj.GenerateResource.Cache
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.exe
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.pdb
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.exe
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.pdb
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csproj.GenerateResource.Cache
+D:\!_EDU_!\Csh\MyProjects\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csprojResolveAssemblyReference.cache
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.exe
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.pdb
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.exe
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.pdb
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csprojResolveAssemblyReference.cache
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+H:\MyProjects2013\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csproj.GenerateResource.Cache
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.exe
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_M_and_BSPP.pdb
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.exe
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\bin\Release\Threads_M_and_BSPP.pdb
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form1.resources
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Form2.resources
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads.Properties.Resources.resources
+C:\Users\PC-T1\OneDrive\Документы\Threads_032\MyTxtBoxAndMyLabel1\obj\Release\Threads_032.csproj.GenerateResource.Cache

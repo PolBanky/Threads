@@ -1,0 +1,1 @@
+MyTxtBoxAndMyLabel1.Properties.Resources.view_cr1

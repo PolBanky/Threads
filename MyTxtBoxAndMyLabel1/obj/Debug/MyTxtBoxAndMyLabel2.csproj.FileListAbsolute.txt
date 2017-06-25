@@ -1,0 +1,16 @@
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\bin\Debug\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\bin\Debug\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.Form1.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel2.csproj.GenerateResource.Cache
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.exe
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.pdb
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\bin\Debug\MyTxtBoxAndMyLabel1.exe
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\bin\Debug\MyTxtBoxAndMyLabel1.pdb
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\ResolveAssemblyReference.cache
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.Form1.resources
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.Properties.Resources.resources
+D:\_EDUCATION_\C#\MyProjects\MyTxtBoxAndMyLabel2\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel2.csproj.GenerateResource.Cache

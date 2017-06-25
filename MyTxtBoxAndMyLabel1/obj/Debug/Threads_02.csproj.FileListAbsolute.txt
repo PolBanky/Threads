@@ -1,0 +1,10 @@
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\bin\Debug\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\bin\Debug\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\obj\Debug\Threads.Form1.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\obj\Debug\Threads.Properties.Resources.resources
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\obj\Debug\Threads_02.csproj.GenerateResource.Cache
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_02\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.pdb
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_021\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.exe
+D:\!!!__EDUCATION__!!!\C#\MyProjects\Threads_021\MyTxtBoxAndMyLabel1\obj\Debug\MyTxtBoxAndMyLabel1.pdb
